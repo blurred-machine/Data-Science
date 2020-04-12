@@ -8,4 +8,6 @@
   4) Iris Dataset Classification [here](https://github.com/paras009/Minor-Data-Science-Projects/tree/master/Iris%20Dataset%20Classification)
   5) Loan Repay Prediction [here](https://github.com/paras009/Minor-Data-Science-Projects/tree/master/Loan%20Repay%20prediction)
   6) PCA on MNIST [here](https://github.com/paras009/Minor-Data-Science-Projects/tree/master/PCA%20on%20MNIST%20Dataset)
-  7) 
+  7) Titanic Disaster Survival Prediction [here](https://github.com/paras009/Minor-Data-Science-Projects/tree/master/Titanic%20Disaster%20Survival%20Prediction)
+  8) Haberman's Cancer Survival [here](https://github.com/paras009/Minor-Data-Science-Projects/tree/master/habermans%20cancer%20survival)
+  9) t-SNE on MNIST Dataset [here](https://github.com/paras009/Minor-Data-Science-Projects/tree/master/t-SNE%20on%20MNIST%20Dataset)
