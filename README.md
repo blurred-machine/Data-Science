@@ -11,3 +11,4 @@
   7) Titanic Disaster Survival Prediction [here](https://github.com/paras009/Minor-Data-Science-Projects/tree/master/Titanic%20Disaster%20Survival%20Prediction)
   8) Haberman's Cancer Survival [here](https://github.com/paras009/Minor-Data-Science-Projects/tree/master/habermans%20cancer%20survival)
   9) t-SNE on MNIST Dataset [here](https://github.com/paras009/Minor-Data-Science-Projects/tree/master/t-SNE%20on%20MNIST%20Dataset)
+  10) Q-Q plot implementation [here](https://github.com/paras009/Minor-Data-Science-Projects/tree/master/Q-Q%20plot%20Implementation)
